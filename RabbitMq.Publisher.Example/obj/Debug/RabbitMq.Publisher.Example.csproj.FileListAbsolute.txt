@@ -1,0 +1,15 @@
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\bin\Debug\RabbitMq.Publisher.Example.exe.config
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\bin\Debug\RabbitMq.Publisher.Example.exe
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\bin\Debug\RabbitMq.Publisher.Example.pdb
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\bin\Debug\RabbitMQ.Client.dll
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\bin\Debug\RabbitMQ.Client.xml
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\obj\Debug\RabbitMq.Publisher.Example.csprojAssemblyReference.cache
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\obj\Debug\RabbitMq.Publisher.Example.Form1.resources
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\obj\Debug\RabbitMq.Publisher.Example.Properties.Resources.resources
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\obj\Debug\RabbitMq.Publisher.Example.csproj.GenerateResource.cache
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\obj\Debug\RabbitMq.Publisher.Example.csproj.CoreCompileInputs.cache
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\obj\Debug\RabbitMq.Publisher.Example.csproj.CopyComplete
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\obj\Debug\RabbitMq.Publisher.Example.exe
+C:\Users\emauricio\source\repos\RabbitMq.Publisher.Example\RabbitMq.Publisher.Example\obj\Debug\RabbitMq.Publisher.Example.pdb
